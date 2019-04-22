@@ -1,3 +1,3 @@
 module Microformats
-  VERSION = '4.0.10a'.freeze
+  VERSION = '4.0.10b'.freeze
 end
